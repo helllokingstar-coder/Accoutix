@@ -1,0 +1,6 @@
+{
+  "name": "ACCOUNTIX - Business Accounting & Management",
+  "description": "Professional accounting and business management application with double-entry engine and Microsoft SQL Server ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
